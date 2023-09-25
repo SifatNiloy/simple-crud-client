@@ -4,7 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
-
+.input-box{
+  padding: 3px;
+  margin-bottom: 2px;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
